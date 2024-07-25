@@ -19,8 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I am Tue Vu - Southern Methodist University
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Over a dynamic career spanning more than 15 years, I have evolved from a seasoned data scientist rooted in research academia to a proficient computational engineer and solution architect. My trajectory is marked by a relentless pursuit of leveraging parallel computing and harnessing GPU power to unravel intricate challenges in the realm of AI/ML across diverse fields.
+I am NVIDIA Ambassador for SMU campus, licensed to teach multiple workshops on utilizing GPU for AI/ML projects. I am also Data Science consultant for RKTech Corp.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research publication [Google scholar]([https://fontawesome.com/](https://scholar.google.com/citations?hl=en&user=IS9y7dEAAAAJ)) and [Linkedin](https://www.linkedin.com/in/tue-vu/).
