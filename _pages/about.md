@@ -23,3 +23,8 @@ Over a dynamic career spanning more than 15 years, I have evolved from a seasone
 I am NVIDIA Ambassador for SMU campus, licensed to teach multiple workshops on utilizing GPU for AI/ML projects. I am also Data Science consultant for RKTech Corp.
 
 My research publication [Google scholar]([https://fontawesome.com/](https://scholar.google.com/citations?hl=en&user=IS9y7dEAAAAJ)) and [Linkedin](https://www.linkedin.com/in/tue-vu/).
+
+
+“The other tabs represent work / analyses that I have completed.  Please check them out!”
+
+
